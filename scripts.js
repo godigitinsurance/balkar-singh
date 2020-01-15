@@ -1,6 +1,6 @@
 $("#customerName").text("Balkar Singh");
 $("#policyNumber").text("J001162020");
-$("#startDate").text("16-Jan-2020");
+$("#startDate").text("15-Jan-2020");
 $("#endDate").text("16-Jan-2021");
 
 
